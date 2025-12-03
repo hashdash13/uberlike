@@ -1,0 +1,7 @@
+com\uberlike\ride\util\GeoUtils.class
+com\uberlike\ride\model\Driver.class
+com\uberlike\ride\model\Location.class
+com\uberlike\ride\App.class
+com\uberlike\ride\service\DriverRegistry.class
+com\uberlike\ride\model\RideRequest.class
+com\uberlike\ride\service\RideMatcher.class

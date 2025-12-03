@@ -1,4 +1,4 @@
-package com.yourname.ride;
+package com.uberlike.ride;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
